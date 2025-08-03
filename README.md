@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-👉 [https://vaultify.vercel.app](https://vaultify.vercel.app) ← *(update this after deploying)*
+👉 [https://vaultify.vercel.app](https://vaultify-jet.vercel.app/) 
 
 ---
 
@@ -32,7 +32,6 @@
 |---------------------------------------|--------------------------------------|
 | ![Light](./screenshots/light.png)     | ![Dark](./screenshots/dark.png)      |
 
-> You can add preview screenshots in a `/screenshots` folder
 
 ---
 
@@ -72,3 +71,4 @@ Ankit Raj
 🔗 GitHub (https://github.com/iankitraj/)
 
 📬 DM or raise an issue for feedback or suggestions
+
