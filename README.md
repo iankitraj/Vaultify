@@ -66,9 +66,15 @@ Pull requests are welcome!
 If you have ideas for features or improvements, feel free to fork and submit a PR.
 
 🧑‍💻 Author
-Ankit Raj
 
-🔗 GitHub (https://github.com/iankitraj/)
+**Ankit Raj**    
+💻 GitHub: [@iankitraj](https://github.com/iankitraj/)
 
 📬 DM or raise an issue for feedback or suggestions
 
+
+📩 **Got suggestions or feedback?**  
+Feel free to message me via:
+
+- 📧 **Email:** [iankitraj18@gmail.com](mailto:iankitraj18@gmail.com)  
+- 💬 **WhatsApp:** [Message me on WhatsApp](https://wa.me/919608527940?text=Hi%20Ankit%2C%20I%20saw%20your%20MERN%20Chat%20App%20project%20and%20had%20some%20suggestions...)
